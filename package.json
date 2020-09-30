@@ -1,0 +1,33 @@
+{
+  "name": "4ga-alex-gus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "save-dev": "^0.0.1-security",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^1.2.1",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "develop": "webpack-dev-server --mode development --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilbert-gus/4ga-alex-gus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilbert-gus/4ga-alex-gus/issues"
+  },
+  "homepage": "https://github.com/dilbert-gus/4ga-alex-gus#readme"
+}
